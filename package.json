@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@syntek/eslint-config-syntek": "^2.0.2",
+    "clean-css": "^4.2.3",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-eslint-comments": "^3.1.2",

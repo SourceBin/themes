@@ -6,6 +6,8 @@ Small package that exports available ace themes.
 
 ```json
 {
-  "solarized_dark": "Solarized Dark"
+  "theme_name": ["pretty name", "custom"],
+  "solarized_dark": ["Solarized Dark", false],
+  "one_dark": ["One Dark", true]
 }
 ```
